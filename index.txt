@@ -1,1 +1,13 @@
-Testing
+🟢 STUDI KASUS 1 — Input Username dan Password
+Buat program yang meminta input username dan password, lalu mencetak pesan “Login berhasil” tanpa validasi apa pun.
+Contoh Output:
+
+output:
+Masukkan username: admin
+Masukkan password: 1234
+Login berhasil.
+
+Keyword:
+-Input/output
+-Tipe data 
+-Variabel
